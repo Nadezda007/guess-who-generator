@@ -1,0 +1,30 @@
+::-webkit-inner-spin-button {
+  -webkit-appearance: none !important;
+  opacity: 1 !important;
+}
+
+/* Light theme */
+.panel-resize-handle-right[data-resize-handle-state="hover"],
+.panel-resize-handle-right[data-resize-handle-state="drag"] {
+  box-shadow: -2px 0px 0px 2px #ccc;
+  z-index: 10;
+}
+
+.panel-resize-handle-left[data-resize-handle-state="hover"],
+.panel-resize-handle-left[data-resize-handle-state="drag"] {
+  box-shadow: 2px 0px 0px 2px #ccc;
+  z-index: 10;
+}
+
+/* Dark theme */
+.panel-resize-handle-right-dark[data-resize-handle-state="hover"],
+.panel-resize-handle-right-dark[data-resize-handle-state="drag"] {
+  box-shadow: -2px 0px 0px 2px #444;
+  z-index: 10;
+}
+
+.panel-resize-handle-left-dark[data-resize-handle-state="hover"],
+.panel-resize-handle-left-dark[data-resize-handle-state="drag"] {
+  box-shadow: 2px 0px 0px 2px #444;
+  z-index: 10;
+}

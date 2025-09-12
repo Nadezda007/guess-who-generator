@@ -1,0 +1,356 @@
+{
+  "cards": [
+    {
+      "id": "avatar-man-01",
+      "imagePath": "avatar-man/man-1.jpeg",
+      "name": {
+        "en": "Liam",
+        "ru": "Лиам"
+      },
+      "categories": [
+        "avatar-maker"
+      ]
+    },
+    {
+      "id": "avatar-man-02",
+      "imagePath": "avatar-man/man-2.jpeg",
+      "name": {
+        "en": "Ethan",
+        "ru": "Итан"
+      },
+      "categories": [
+        "avatar-maker"
+      ]
+    },
+    {
+      "id": "avatar-man-03",
+      "imagePath": "avatar-man/man-3.jpeg",
+      "name": {
+        "en": "Luca",
+        "ru": "Лука"
+      },
+      "categories": [
+        "avatar-maker"
+      ]
+    },
+    {
+      "id": "avatar-man-04",
+      "imagePath": "avatar-man/man-4.jpeg",
+      "name": {
+        "en": "Omar",
+        "ru": "Омар"
+      },
+      "categories": [
+        "avatar-maker"
+      ]
+    },
+    {
+      "id": "avatar-man-05",
+      "imagePath": "avatar-man/man-5.jpeg",
+      "name": {
+        "en": "Noah",
+        "ru": "Ноа"
+      },
+      "categories": [
+        "avatar-maker"
+      ]
+    },
+    {
+      "id": "avatar-man-06",
+      "imagePath": "avatar-man/man-6.jpeg",
+      "name": {
+        "en": "Mateo",
+        "ru": "Матео"
+      },
+      "categories": [
+        "avatar-maker"
+      ]
+    },
+    {
+      "id": "avatar-man-07",
+      "imagePath": "avatar-man/man-7.jpeg",
+      "name": {
+        "en": "Santiago",
+        "ru": "Сантьяго"
+      },
+      "categories": [
+        "avatar-maker"
+      ]
+    },
+    {
+      "id": "avatar-man-08",
+      "imagePath": "avatar-man/man-8.jpeg",
+      "name": {
+        "en": "Hiroshi",
+        "ru": "Хироши"
+      },
+      "categories": [
+        "avatar-maker"
+      ]
+    },
+    {
+      "id": "avatar-man-09",
+      "imagePath": "avatar-man/man-9.jpeg",
+      "name": {
+        "en": "Arjun",
+        "ru": "Арджун"
+      },
+      "categories": [
+        "avatar-maker"
+      ]
+    },
+    {
+      "id": "avatar-man-10",
+      "imagePath": "avatar-man/man-10.jpeg",
+      "name": {
+        "en": "Mikhail",
+        "ru": "Михаил"
+      },
+      "categories": [
+        "avatar-maker"
+      ]
+    },
+    {
+      "id": "avatar-man-11",
+      "imagePath": "avatar-man/man-11.jpeg",
+      "name": {
+        "en": "Mohammed",
+        "ru": "Мохаммед"
+      },
+      "categories": [
+        "avatar-maker"
+      ]
+    },
+    {
+      "id": "avatar-man-12",
+      "imagePath": "avatar-man/man-12.jpeg",
+      "name": {
+        "en": "David",
+        "ru": "Давид"
+      },
+      "categories": [
+        "avatar-maker"
+      ]
+    },
+    {
+      "id": "avatar-man-13",
+      "imagePath": "avatar-man/man-13.jpeg",
+      "name": {
+        "en": "Kai",
+        "ru": "Кай"
+      },
+      "categories": [
+        "avatar-maker"
+      ]
+    },
+    {
+      "id": "avatar-man-14",
+      "imagePath": "avatar-man/man-14.jpeg",
+      "name": {
+        "en": "Ivan",
+        "ru": "Иван"
+      },
+      "categories": [
+        "avatar-maker"
+      ]
+    },
+    {
+      "id": "avatar-man-15",
+      "imagePath": "avatar-man/man-15.jpeg",
+      "name": {
+        "en": "Julian",
+        "ru": "Юлиан"
+      },
+      "categories": [
+        "avatar-maker"
+      ]
+    },
+    {
+      "id": "avatar-man-16",
+      "imagePath": "avatar-man/man-16.jpeg",
+      "name": {
+        "en": "Rafael",
+        "ru": "Рафаэль"
+      },
+      "categories": [
+        "avatar-maker"
+      ]
+    },
+    {
+      "id": "avatar-woman-01",
+      "imagePath": "avatar-woman/woman-1.jpeg",
+      "name": {
+        "en": "Emma",
+        "ru": "Эмма"
+      },
+      "categories": [
+        "avatar-maker"
+      ]
+    },
+    {
+      "id": "avatar-woman-02",
+      "imagePath": "avatar-woman/woman-2.jpeg",
+      "name": {
+        "en": "Sofia",
+        "ru": "София"
+      },
+      "categories": [
+        "avatar-maker"
+      ]
+    },
+    {
+      "id": "avatar-woman-03",
+      "imagePath": "avatar-woman/woman-3.jpeg",
+      "name": {
+        "en": "Yuki",
+        "ru": "Юки"
+      },
+      "categories": [
+        "avatar-maker"
+      ]
+    },
+    {
+      "id": "avatar-woman-04",
+      "imagePath": "avatar-woman/woman-4.jpeg",
+      "name": {
+        "en": "Aisha",
+        "ru": "Аиша"
+      },
+      "categories": [
+        "avatar-maker"
+      ]
+    },
+    {
+      "id": "avatar-woman-05",
+      "imagePath": "avatar-woman/woman-5.jpeg",
+      "name": {
+        "en": "Olivia",
+        "ru": "Оливия"
+      },
+      "categories": [
+        "avatar-maker"
+      ]
+    },
+    {
+      "id": "avatar-woman-06",
+      "imagePath": "avatar-woman/woman-6.jpeg",
+      "name": {
+        "en": "Isabella",
+        "ru": "Изабелла"
+      },
+      "categories": [
+        "avatar-maker"
+      ]
+    },
+    {
+      "id": "avatar-woman-07",
+      "imagePath": "avatar-woman/woman-7.jpeg",
+      "name": {
+        "en": "Maya",
+        "ru": "Майя"
+      },
+      "categories": [
+        "avatar-maker"
+      ]
+    },
+    {
+      "id": "avatar-woman-08",
+      "imagePath": "avatar-woman/woman-8.jpeg",
+      "name": {
+        "en": "Lina",
+        "ru": "Лина"
+      },
+      "categories": [
+        "avatar-maker"
+      ]
+    },
+    {
+      "id": "avatar-woman-09",
+      "imagePath": "avatar-woman/woman-9.jpeg",
+      "name": {
+        "en": "Svetlana",
+        "ru": "Светлана"
+      },
+      "categories": [
+        "avatar-maker"
+      ]
+    },
+    {
+      "id": "avatar-woman-10",
+      "imagePath": "avatar-woman/woman-10.jpeg",
+      "name": {
+        "en": "Elena",
+        "ru": "Елена"
+      },
+      "categories": [
+        "avatar-maker"
+      ]
+    },
+    {
+      "id": "avatar-woman-11",
+      "imagePath": "avatar-woman/woman-11.jpeg",
+      "name": {
+        "en": "Fatima",
+        "ru": "Фатима"
+      },
+      "categories": [
+        "avatar-maker"
+      ]
+    },
+    {
+      "id": "avatar-woman-12",
+      "imagePath": "avatar-woman/woman-12.jpeg",
+      "name": {
+        "en": "Chloe",
+        "ru": "Хлоя"
+      },
+      "categories": [
+        "avatar-maker"
+      ]
+    },
+    {
+      "id": "avatar-woman-13",
+      "imagePath": "avatar-woman/woman-13.jpeg",
+      "name": {
+        "en": "Nina",
+        "ru": "Нина"
+      },
+      "categories": [
+        "avatar-maker"
+      ]
+    },
+    {
+      "id": "avatar-woman-14",
+      "imagePath": "avatar-woman/woman-14.jpeg",
+      "name": {
+        "en": "Anika",
+        "ru": "Аника"
+      },
+      "categories": [
+        "avatar-maker"
+      ]
+    },
+    {
+      "id": "avatar-woman-15",
+      "imagePath": "avatar-woman/woman-15.jpeg",
+      "name": {
+        "en": "Rosa",
+        "ru": "Роза"
+      },
+      "categories": [
+        "avatar-maker"
+      ]
+    },
+    {
+      "id": "avatar-woman-16",
+      "imagePath": "avatar-woman/woman-16.jpeg",
+      "name": {
+        "en": "Lea",
+        "ru": "Леа"
+      },
+      "categories": [
+        "avatar-maker"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+    "categories": [
+        {
+            "id": "avatar-maker",
+            "imagePath": "avatar-maker.png",
+            "name": {
+                "en": "Avatar Maker"
+            }
+        }
+    ]
+}

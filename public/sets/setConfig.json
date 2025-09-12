@@ -1,0 +1,38 @@
+{
+  "sets": [
+    {
+      "id": "avatar-maker-1",
+      "imagePath": "avatar-maker.png",
+      "name": {
+        "en": "Avatar 1"
+      },
+      "creator": "avatarmaker.com",
+      "cards": [
+        "avatar-man-01",
+        "avatar-man-02",
+        "avatar-man-03",
+        "avatar-man-05",
+        "avatar-man-07",
+        "avatar-man-08",
+        "avatar-man-09",
+        "avatar-man-11",
+        "avatar-man-12",
+        "avatar-man-14",
+        "avatar-man-15",
+        "avatar-man-16",
+        "avatar-woman-01",
+        "avatar-woman-02",
+        "avatar-woman-03",
+        "avatar-woman-04",
+        "avatar-woman-06",
+        "avatar-woman-07",
+        "avatar-woman-08",
+        "avatar-woman-10",
+        "avatar-woman-12",
+        "avatar-woman-13",
+        "avatar-woman-14",
+        "avatar-woman-15"
+      ]
+    }
+  ]
+}
