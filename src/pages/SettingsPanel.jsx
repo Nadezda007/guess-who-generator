@@ -436,25 +436,28 @@ function SettingsPanel({
 
           </ButtonGroup>
 
+          <Box sx={{ alignContent: "center" }}>
+            <IconButton
+              aria-label="settings"
+              onClick={() => setProfileSettingsDialogOpen(true)}
+            >
+              <SettingsIcon />
+            </IconButton>
 
-          <IconButton
-            onClick={() => setProfileSettingsDialogOpen(true)}
-          >
-            <SettingsIcon />
-          </IconButton>
+            <ProfileManagerDialog
+              open={profileSettingsDialogOpen}
+              onClose={() => setProfileSettingsDialogOpen(false)}
+              settings={settings}
+              allProfileList={profileList}
+              profileList={
+                profileList.filter(p => p.isNone === false && p.editable === true)
+              }
+              addSettingsProfile={addSettingsProfile}
+              updateSettingsProfile={updateSettingsProfile}
+              deleteSettingsProfile={deleteSettingsProfile}
+            />
+          </Box>
 
-          <ProfileManagerDialog
-            open={profileSettingsDialogOpen}
-            onClose={() => setProfileSettingsDialogOpen(false)}
-            settings={settings}
-            allProfileList={profileList}
-            profileList={
-              profileList.filter(p => p.isNone === false && p.editable === true)
-            }
-            addSettingsProfile={addSettingsProfile}
-            updateSettingsProfile={updateSettingsProfile}
-            deleteSettingsProfile={deleteSettingsProfile}
-          />
         </Box>
       </Box>
 

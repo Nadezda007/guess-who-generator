@@ -347,7 +347,9 @@ function SideMenu({
 
           {/* ------- CARD SETTINGS ------- */}
           <Box sx={{ alignContent: "center" }}>
-            <IconButton aria-label="settings" onClick={() => setSettingsOpen(true)}>
+            <IconButton
+              aria-label="settings"
+              onClick={() => setSettingsOpen(true)}>
               <SettingsIcon />
             </IconButton>
 
